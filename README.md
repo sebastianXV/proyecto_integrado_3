@@ -22,8 +22,4 @@ La falta de sueño de calidad afecta negativamente la productividad, el estado d
 ## Métricas de Éxito  
 Identificar correlaciones significativas (por ejemplo, |r| > 0.5) entre las variables de estilo de vida y la calidad del sueño. 
 
-Determinar los factores más influyentes mediante análisis estadístico o modelos predictivos (como regresión o clasificación). 
-
-Alcanzar una precisión ≥ 80% en un modelo que prediga la presencia de un trastorno del sueño.   
-
 Visualizar de forma clara las relaciones entre variables clave (por ejemplo, actividad física, estrés, sueño).   
